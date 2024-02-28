@@ -22,7 +22,7 @@ This repository contains the Ethereum smart contract for a decentralized lottery
 
 1. Clone the repository
    ```
-   git clone https://github.com/your-username/your-lottery-contract-repo.git
+   git clone https://github.com/ChippuArt/lottery-ethereum.git
    ```
 2. Install dependencies
    ```
